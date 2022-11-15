@@ -1,0 +1,85 @@
+.container-hero{
+    padding: 5px;
+}
+
+#hero .animated {
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.Title{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+
+}
+.promo{
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+
+}
+
+#video-card{
+    margin-top: 50px;
+ 
+}
+
+#everyone{
+    margin-top: 10px;
+    
+}
+
+.btn-get-started {
+    
+    font-family: "Jost", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 28px 11px 28px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin: 10px 0 0 0;
+    color: #fff;
+    background: #47b2e4;
+}
+#hero .btn-watch-video {
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    transition: 0.5s;
+    margin: 10px 0 0 25px;
+    color: #fff;
+    line-height: 1;
+}
+
+#hero h1 {
+    margin: 0 0 10px 0;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #fff;
+}
+
+#hero h2 {
+    color: rgba(255, 255, 255, 0.6);
+    margin-bottom: 50px;
+    font-size: 24px;
+}
+/* #hero{
+    position: static;
+    width: 100%;
+    height: 150%;
+    object-fit: fill !important;
+    z-index: -1;
+    opacity: 0.5;
+} */

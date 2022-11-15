@@ -1,0 +1,21 @@
+p{
+    color: black;
+}
+
+h3{
+    color: black;
+}
+
+h2{
+    color: black;
+}
+
+.container-fluid{
+    background-color: rgb(135, 135, 135);
+}
+
+.dtr-section{
+    position: relative;
+    padding: 60px 0 0;
+    overflow: hidden;
+}

@@ -1,0 +1,10 @@
+.btn-primary{
+    background-color: crimson !important;
+    padding: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 5px;
+    color: aliceblue;
+    border-color: white;
+
+}

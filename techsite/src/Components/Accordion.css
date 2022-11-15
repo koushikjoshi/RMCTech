@@ -1,0 +1,24 @@
+#accordionFlushExample{
+    width: 150px;
+    height: 150px;
+   
+}
+
+.containerA{
+    padding: 8% !important;
+    margin-top: 5px !important;
+}
+
+.text{
+    color: aliceblue !important;
+
+}
+
+.accordion-sec{
+    align-items: center;
+    justify-content: center;
+    float: center;
+    color: aliceblue;
+
+}
+

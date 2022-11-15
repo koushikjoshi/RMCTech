@@ -1,0 +1,38 @@
+#services{
+    padding: 5px;
+}
+
+.section-title{
+    color: aliceblue;
+}
+
+.service1{
+    width: 100px;
+    margin-top: 20px;
+}
+
+.servicesec{
+    padding: 20px;
+}
+
+.container-services{
+    background-color: rgb(18, 18, 19);
+    margin-bottom: 80px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.box:hover{
+ 
+    padding: 10px;
+   
+    transition: ease-in 200ms;
+}
+
+h5{
+    color: aliceblue;
+}
+.service-text{
+    color: aliceblue;
+}
+

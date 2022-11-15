@@ -1,0 +1,33 @@
+.container-technology{
+    padding-top: 5px;
+    padding-bottom: 50px;
+    margin-bottom: 10px;
+}
+#lists{
+    align-items: center;
+    float: inline-end;
+}
+.clients {
+    padding: 12px 0;
+    text-align: center;
+    align-items: center;
+}
+
+.col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center{
+    background-color: aliceblue;
+
+}
+
+.container{
+    align-items: center;
+}
+
+
+.section-bg {
+    background-color: #121212;
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+}

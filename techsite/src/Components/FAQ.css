@@ -1,0 +1,27 @@
+.section-title {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.faq .faq-list {
+    padding: 0 100px;
+}
+
+.faq .faq-list li {
+    padding: 20px;
+    background: #fff;
+    border-radius: 4px;
+    position: relative;
+}
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.container-faq{
+    padding: 5px;
+}
+
+.text-center{
+    color: #fff !important;
+}
